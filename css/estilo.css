@@ -1,0 +1,33 @@
+body{
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#contenedor{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+    background-color: white;
+}
+header{
+    width: 100%;
+}
+section{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+}
+section h1{
+    text-align:center
+}
+section p{
+    text-align: justify;
+    padding: 5px;
+}
+section img{
+    padding: 3px;
+}
+section{
+    text-align:center   
+}
